@@ -2,6 +2,7 @@
 This is the repository of parts of Amir Abbas Saberi's senior thesis in the study of design theory and evaluation of noise type in quantum gravimeter and quantum gravity gradiometer devices in University of Tehran.
 
 # Noise Assessment 
+**Be sure to read the report file for more comprehensive information.**
 
 Inertial sensors play a key role in the world of geodesy and geophysics.In the field of geodesy and geophysics of positioning, measuring gravity in general, measuring the forces governing the nature of the earth, is of special importance.\cite{torge2023geodesy} Inertial sensors play an important role in this environment.The construction of these sensors is done with various methods, but one of the newest methods has attracted a lot of attention from users, is quantum sensors because of their very high and remarkable sensitivity.
 
