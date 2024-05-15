@@ -16,6 +16,7 @@ Knowing the type of noise of the system helps in correct and accurate estimation
 
 Various methods are used to estimate the parameters. These methods can be called Bayesian estimation and direct least squares ellipse fitting.
 
+![Gravity-Gradiometer](https://github.com/AmirAbbasSaberi/Sensitivity-analysis-of-gravimeter-and-gravity-gradiometer-based-on-cold-atom-interferometry/assets/132078806/4a5c732d-7e9c-49f0-9b3e-0565ad415183)
 
 
 There are different methods to study system noise, one of the most important methods to study system noise in geodesy is the variance component estimation (LS-VCE) method, in which the noise parameters in the system are obtained by the least squares method. To characterize the noise of the system, different scenarios are designed, which are estimated with LS-VCE, each of these scenarios and in the condition that the generated noise is Gaussian, the most likely scenario for the system is determined with maximum likelihood Method. 
